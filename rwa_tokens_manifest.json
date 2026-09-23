@@ -1,0 +1,67 @@
+{
+  "network": "devnet",
+  "programId": "9yX2d3V9R93UP1Pv4kNzHp5Foas4xTEdJneiKEM2aVTS",
+  "createdAt": "2026-09-29T14:43:51Z",
+  "tokens": [
+    {
+      "assetId": 1,
+      "name": "NVIDIA GPU (H100)",
+      "symbol": "H100",
+      "mint": "FPfpbaTTCcAPJxhXE2M5q6vvMHU9w2Yrwr1YWcUkAG1g",
+      "custodianAta": "DiEf94Mv2dQ21n5qdTXLTu9CpQLncX9sGwRS5Nfhtwku",
+      "supply": 10000,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/FPfpbaTTCcAPJxhXE2M5q6vvMHU9w2Yrwr1YWcUkAG1g?cluster=devnet"
+    },
+    {
+      "assetId": 2,
+      "name": "Gold Bullion 99.99% (RWA)",
+      "symbol": "AU99",
+      "mint": "6FyTUi97C226khSWZtBMZ16e1aBAa19Jww8okMETjiBn",
+      "custodianAta": "uwJZXmxhK98NNqyZo2N2DvfDpd5ibGRrgPKfMDegSDN",
+      "supply": 500,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/6FyTUi97C226khSWZtBMZ16e1aBAa19Jww8okMETjiBn?cluster=devnet"
+    },
+    {
+      "assetId": 3,
+      "name": "iPhone 15 Pro Titanium",
+      "symbol": "IPH15",
+      "mint": "At4GZDH2ymYZXXiNLgx7H6RwgJuJcoHnfaQ5Yhff97Z7",
+      "custodianAta": "47xt69oin6vU6S3WjEYzQTKUydZdB8wWN9oshduosNYa",
+      "supply": 150,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/At4GZDH2ymYZXXiNLgx7H6RwgJuJcoHnfaQ5Yhff97Z7?cluster=devnet"
+    },
+    {
+      "assetId": 4,
+      "name": "Tesla Model S Plaid",
+      "symbol": "TSLA",
+      "mint": "3vqDzGNz57z5wKAVG51r8trDoR366RLZ73BEwV1sMX31",
+      "custodianAta": "2dJGshtjgG4X1LrLhxGGCE2Sb3L8dAuw27zRBXFB2tL6",
+      "supply": 20,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/3vqDzGNz57z5wKAVG51r8trDoR366RLZ73BEwV1sMX31?cluster=devnet"
+    },
+    {
+      "assetId": 5,
+      "name": "DDR5 RAM 32GB Reg ECC",
+      "symbol": "RAM",
+      "mint": "8eqd1eFvreCV38yHdUzfxhnx91fu5mnFCEn77jUa8bBY",
+      "custodianAta": "A8imuFpgGRW1tNQGJxHPFMvh3V4qLwuT3e2sDWr1wcew",
+      "supply": 2500,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/8eqd1eFvreCV38yHdUzfxhnx91fu5mnFCEn77jUa8bBY?cluster=devnet"
+    },
+    {
+      "assetId": 6,
+      "name": "Silver Bullion 99.9% (RWA)",
+      "symbol": "AG99",
+      "mint": "BSxZdVgG4Uew3RXrFE4nybSTsuU5E6irhWZbr9peXMrH",
+      "custodianAta": "5sY4P9v5ZMorUaFH2uY3tSfKicyGYHSdSCXtApWogHLB",
+      "supply": 5000,
+      "decimals": 6,
+      "explorer": "https://explorer.solana.com/address/BSxZdVgG4Uew3RXrFE4nybSTsuU5E6irhWZbr9peXMrH?cluster=devnet"
+    }
+  ]
+}
