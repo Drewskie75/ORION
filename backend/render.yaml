@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: orion-backend
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 20.14.0
+      - key: DATABASE_URL
+        sync: false
+      - key: SOLANA_RPC_URL
+        value: https://api.devnet.solana.com
+      - key: SOLANA_WS_URL
+        value: wss://api.devnet.solana.com
+      - key: ORION_PROGRAM_ID
+        value: 9yX2d3V9R93UP1Pv4kNzHp5Foas4xTEdJneiKEM2aVTS
+      - key: TREASURY_PUBKEY
+        value: 9yX2d3V9R93UP1Pv4kNzHp5Foas4xTEdJneiKEM2aVTS
+      - key: ALLOWED_ORIGINS
+        value: "*"
+
